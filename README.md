@@ -6,10 +6,16 @@
 
 ![](./assets/header_blockchain.png)
 
-## Codigo
+## Comandos iniciais do projeto
+
+```
+$ npm init
+```
+
+## Codigos
 
 
-* [00 - Hola Mundo](./basic/00-helloworld.js)
+* [00 - Hola Mundo]
 * [01 - Variables]
 * [02 - Tipos de datos]
 * [03 - Ejercicios: Primeros pasos]
