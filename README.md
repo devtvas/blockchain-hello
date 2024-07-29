@@ -15,7 +15,7 @@ $ npm init
 ## Codigos
 
 
-* [00 - Hola Mundo]
+* [00 - Hola Mundo](https://github.com/devtvas/blockchain-hello/blob/main/index.js)
 * [01 - Variables]
 * [02 - Tipos de datos]
 * [03 - Ejercicios: Primeros pasos]
