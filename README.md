@@ -15,9 +15,9 @@ $ npm init
 ## Codigos
 
 
-* [00 - Hola Mundo](https://github.com/devtvas/blockchain-hello/blob/main/index.js)
-* [01 - Variables]
-* [02 - Tipos de datos]
+* [00 - Hola Mundo]
+* [01 - O que é Blockchain](https://github.com/devtvas/blockchain-hello/blob/main/01-blockchain.js)
+* [02 - O que é Hash](https://github.com/devtvas/blockchain-hello/blob/main/02-hash.js)
 * [03 - Ejercicios: Primeros pasos]
 * [04 - Operadores]
 * [05 - Ejercicios: Operadores]
