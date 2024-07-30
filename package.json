@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devtvas/blockchain-hello/issues"
   },
-  "homepage": "https://github.com/devtvas/blockchain-hello#readme"
+  "homepage": "https://github.com/devtvas/blockchain-hello#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
 }
